@@ -20,6 +20,8 @@ const store = {
   counterStore
 }
 
+console.log('111')
+
 class App extends Component {
 
 <%if (locals.typescript) {-%>
